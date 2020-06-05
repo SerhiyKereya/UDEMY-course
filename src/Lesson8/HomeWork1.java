@@ -1,28 +1,19 @@
 package Lesson8;
 
 public class HomeWork1 {
-    int a;
-    int b;
-    int c;
-    //class constructor
-    HomeWork1(int a1, int b1, int c1){
-        a = a1;
-        b = b1;
-        c = c1;
-    }
-    int multyply(int result){
-        result = a*b*c;
+
+    static int multyply(int a, int b, int c){
+        int result = a*b*c;
         return result;
     }
-    void divide(){
+    static void divide(int a, int b){
         System.out.println(a +"/"+ b +"="+ a/b +"+"+ a%b +"/"+ b);
     }
 }
 class HomeWorkTest1{
     public static void main(String[] args) {
-        HomeWork1 h0 = new HomeWork1(7,5,3);
-        int m = h0.multyply(1);
-        System.out.println(h0.a +"*"+ h0.b +"*"+ h0.c +"="+ m);
-        h0.divide();
+        System.out.println("1*5*9="+ HomeWork1.multyply(1, 5, 9));
+        HomeWork1.divide(7,5);
+        HomeWork1.divide(-8,-3);
     }
 }
