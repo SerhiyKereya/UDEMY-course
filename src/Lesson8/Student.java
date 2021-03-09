@@ -2,8 +2,9 @@ package Lesson8;
 
 public class Student {
     String name;
-    int course;
-    static int count; // static variable belongs to class not to object and not initialized in each object
+    public int course;
+    public static int count;// static variable belongs to class not to object and not initialized in each object
+    public static int testImport = 66;
     int a;
 
     public Student(int course2, String name2){
