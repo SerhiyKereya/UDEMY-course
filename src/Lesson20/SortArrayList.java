@@ -28,7 +28,7 @@ public class SortArrayList {
         //iterator go through all list iterations
         Iterator<String> it = list1.iterator();
         while (it.hasNext()){
-            System.out.println("iteator print - "+ it.next());
+            System.out.println("iterator print - "+ it.next());
         }
     }
 }
