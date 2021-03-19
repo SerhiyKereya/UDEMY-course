@@ -6,7 +6,7 @@ public class AbstractHide {
         // Figure f = new Figure();
 
         Figure f1 = new Square();
-        // will show side quantity from Figure compile binding
+        // will show side quantity 0 from Figure compiletime binding
         System.out.println(f1.sideQuantity);
         // will show square area from runtime binding
         f1.area();
@@ -16,6 +16,7 @@ public class AbstractHide {
 // abstract class can't be 'final' becouse it can't be inherited
 // abstract used for parrent class with some empty templates Methods
 abstract class Figure{
+    //abstract class had constructor as usual
     int sideQuantity = 0;
     //abstract Methods don't have body={}
     abstract void perimeter();
