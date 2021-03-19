@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93d1242f-5d31-489d-afbd-d2c9e2090af9" name="Default Changelist" comment="Adding all classes">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson1/HomeWork1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson2/PrimitiveDataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson2/homeWork2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson3/homeWork3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson3/test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson3/test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson3/test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson3/test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/BankAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/StudentTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson4/test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/Car3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/HumanTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/carMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/test51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson5/test52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/HomeWork6Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/MethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/MethodOverloading2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/MethodOverloadingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/MethodOverloadingTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson6/SumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7/SecondClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson7_1/ThirdClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/Lesson8/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello world/META-INF/Hello world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson20/HomeWorkArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson20/HomeWorkArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson20/SortArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson20/SortArrayList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bcuNMuUKS6yYX6X8pDv58VZgYn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson20" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SortArrayList">
+    <configuration name="HomeWork1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.HomeWork1" />
+      <module name="Hello world" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveDataTypes" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.PrimitiveDataTypes" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArrayList" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/src" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lesson20.SortArrayList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrListStringBuilderAppend" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20.TestArrListStringBuilderAppend" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayListMethods" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20.TestArrayListMethods" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndexOfArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20.TestIndexOfArrayList" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndexOfArrayList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20.TestIndexOfArrayList2" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.test3" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortArrayList" />
+        <item itemvalue="Application.TestIndexOfArrayList2" />
+        <item itemvalue="Application.TestIndexOfArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d1242f-5d31-489d-afbd-d2c9e2090af9" name="Default Changelist" comment="" />
+      <created>1588943661823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588943661823</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding all classes">
+      <created>1591183443409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591183443410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding all classes">
+      <created>1591215266078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591215266078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding all classes">
+      <created>1591215336144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591215336144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding all classes">
+      <created>1591215510182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591215510182</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding all classes">
+      <created>1591359980832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591359980832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding all classes">
+      <created>1591365194820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591365194820</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding all classes">
+      <created>1592393864144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592393864144</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding all classes">
+      <created>1615282292255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615282292255</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding all classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding all classes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello_world$SortArrayList.ic" NAME="SortArrayList Coverage Results" MODIFIED="1615290338058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson20.*</FILTER>
+    </SUITE>
+  </component>
+</project>
