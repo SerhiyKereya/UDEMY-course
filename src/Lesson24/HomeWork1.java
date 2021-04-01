@@ -12,12 +12,12 @@ public class HomeWork1 {
         Speakable sp = new Pingwin("SpeakWin");
         sp.speak();
 
-        AnimalHome lion1 = new Lion("King"); // AnimalHome had only 2 methods
+        AnimalHome lion1 = new Lion("King"); // object type AnimalHome had only 2 methods
         System.out.println(lion1.animalName);
         lion1.eat();
         lion1.sleep();
 
-        Mammal lion2 = new Lion("lion2"); // Mammal had run + extend 2 method from AnimalHome and +1 from interface Speakable
+        Mammal lion2 = new Lion("lion2"); // object type Mammal had run + extend 2 method from AnimalHome and +1 from interface Speakable
         System.out.println(lion2.animalName);
         lion2.eat();
         lion2.speak();
