@@ -1,7 +1,7 @@
 package Lesson27;
 
 public class ErrorRecursive {
-    static void abc(){
+    static void abc(){ // endless method
         System.out.println("abc working");
         abc();
     }
