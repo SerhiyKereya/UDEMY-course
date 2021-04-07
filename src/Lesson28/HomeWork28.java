@@ -39,7 +39,7 @@ public class HomeWork28 {
         Period perOfWork = Period.of(0,0,1);
         Duration durOfRest = Duration.ofHours(16);
 
-        //run method
+        //run method workShift
         worker1.workShift(ldtStart,ldtFinish,perOfWork,durOfRest);
     }
 }
