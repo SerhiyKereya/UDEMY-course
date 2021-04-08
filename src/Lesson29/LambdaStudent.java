@@ -54,15 +54,15 @@ class StudentInformation{
         StudentInformation sti = new StudentInformation();
 
         // run method with parameters arrayList 'list' of students,
-        // and LAMBDA Expression parameter interface StudentChecksInterface will implement method -> 'testStudent'
-        // 'testStudent' can return true if student object st.avgGrade >7
-        sti.testAndPrintStudents(list, (Student3 st) -> {return st.avgGrade > 7;}); //LAMBDA expression only for intefaces with one method
+        // and LAMBDA Expression parameter interface StudentChecksInterface will implement method -> 'testAndPrintStudents'
+        // 'testAndPrintStudents' can return true if student object st.avgGrade >7
+        sti.testAndPrintStudents(list, (Student3 st) -> {return st.avgGrade > 7;}); //LAMBDA expression only for interfaces with one method
         System.out.println("-----------------------------");
-        sti.testAndPrintStudents(list, (Student3 st) -> {return st.sex =='f';}); // LAMBDA allow to use method 'testStudent' instead of parametr
+        sti.testAndPrintStudents(list, st -> st.sex =='f'); // LAMBDA expression can automatically apply object type 'Student3'
         System.out.println("-----------------------------");
-        sti.testAndPrintStudents(list,(Student3 st) -> {return st.course <2;}); // LAMBDA expression
+        sti.testAndPrintStudents(list,(Student3 st) -> {return st.course <2;}); // LAMBDA expression allow to use method 'testAndPrintStudents' instead of parameter
         System.out.println("-----------------------------");
-        sti.testAndPrintStudents(list,(Student3 st) -> {return st.age > 19 && st.course<4;}); // LAMBDA expression
+        sti.testAndPrintStudents(list,(Student3 st) -> {return st.age > 19 && st.course<4;}); // LAMBDA arrow(->) divide method parameter -> method body
     }
 }
 
