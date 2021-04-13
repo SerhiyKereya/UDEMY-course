@@ -1,4 +1,4 @@
-package Lesson31Generics;
+package Lesson31_Generics;
 
 import java.util.ArrayList;
 
@@ -21,7 +21,7 @@ public class ParametrizedMethods {
 
 class GenericsMethod{
     //method getSecondElement with unspecified type T
-    public static<T> T getSecondElement(ArrayList<T> tArrayList){ // second T is mandatory and declares what type should be returned
+    public static<T> T getSecondElement(ArrayList<T> tArrayList){ // second T is mandatory and declares that T type should be returned
         return tArrayList.get(1);
     }
 }
